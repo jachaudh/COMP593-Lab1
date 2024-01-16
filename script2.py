@@ -1,0 +1,1 @@
+print("Doing things in a smarter way is better then harder way")
